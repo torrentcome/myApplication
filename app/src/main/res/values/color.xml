@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="google_blue_dark">#0d47a1</color>
+	<color name="google_green_dark">#33691e</color>
+	<color name="google_red_dark">#b71c1c</color>
+	<color name="google_yellow_dark">#FF8800</color>
+	<color name="google_violet_dark">#9933CC</color>
+
+	<color name="google_blue_light">#1e88e5</color>
+	<color name="google_green_light">#43a047</color>
+	<color name="google_red_light">#e53935</color>
+	<color name="google_yellow_light">#fdd835</color>
+	<color name="google_violet_light">#8e24aa</color>
+
+	<color name="gray_title">#aca9ac</color>
+	<color name="gray_google">#F8F8F8</color>
+
+	<string-array name="array_stats">
+		<item>#1e88e5</item>
+		<item>#e53935</item>
+		<item>#33691e</item>
+		<item>#AA66CC</item>
+		<item>#FF8800</item>
+		<item>#43a047</item>
+		<item>#0d47a1</item>
+		<item>#9933CC</item>
+		<item>#b71c1c</item>
+		<item>#fbc02d</item>
+		<item>#6d4c41</item>
+	</string-array>
+</resources>
