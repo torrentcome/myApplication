@@ -1,2 +1,2 @@
-// HELLO WORLD exo 1
+// HELLO WORLD
 console.log('HELLO WORLD');
