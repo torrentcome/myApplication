@@ -10,5 +10,5 @@ Objective : Learn NodeJS
 ## Archi
 
 * [api](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd) - explain and example
-* exo -> workshop exo
-* module -> with npm stuff
+* exo -> workshop
+* module -> installed with npm
