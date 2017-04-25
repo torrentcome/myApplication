@@ -15,8 +15,3 @@ var server = http.createServer(function (req, res) {
 });
 
 server.listen(port);
-
-/*
-inStream.pipe(map(function(chunk){
-  return chunk.toString().split('').reverse().join('');
-})).pipe(outStream);*/
