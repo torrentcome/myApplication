@@ -15,6 +15,10 @@
   "devDependencies": {
     "nodemon": "^1.11.0"
   },
+  "repository": {
+  "type": "git",
+  "url": "git@github.com:torrentcome/myApplication.git"
+  },
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
